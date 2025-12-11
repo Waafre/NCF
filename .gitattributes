@@ -7,3 +7,7 @@ UserTower/train&test/*.pkl filter=lfs diff=lfs merge=lfs -text
 UserTower/train&test/*.csv filter=lfs diff=lfs merge=lfs -text
 UserTower/encode/*.csv filter=lfs diff=lfs merge=lfs -text
 UserTower/*.pth filter=lfs diff=lfs merge=lfs -text
+TwoTower/train&test/*.pkl filter=lfs diff=lfs merge=lfs -text
+TwoTower/train&test/*.csv filter=lfs diff=lfs merge=lfs -text
+TwoTower/encode/*.csv filter=lfs diff=lfs merge=lfs -text
+TwoTower/*.pth filter=lfs diff=lfs merge=lfs -text
