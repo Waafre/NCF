@@ -1,0 +1,5 @@
+Original/*.csv filter=lfs diff=lfs merge=lfs -text
+Original/encode/*.csv filter=lfs diff=lfs merge=lfs -text
+Original/encode/encoded_data_ori.csv filter=lfs diff=lfs merge=lfs -text
+Original/train&test/*.pkl filter=lfs diff=lfs merge=lfs -text
+Original/*.pth filter=lfs diff=lfs merge=lfs -text
