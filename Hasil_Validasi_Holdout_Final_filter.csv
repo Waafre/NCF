@@ -1,0 +1,101 @@
+ID;Profil;Target (Fakta);Prediksi Model (Top 10 Kategori);Hasil
+1160481;18-24 | Tidak Ingin Menjawab | Sulawesi Utara;Mainan & Hobi;['Otomotif', 'Buku', 'Otomotif', 'Otomotif', 'Kesehatan & Kecantikan', 'Otomotif', 'Kesehatan & Kecantikan', 'Elektronik', 'Rumah Tangga', 'Rumah Tangga'];MISS
+585322;35-44 | Laki - laki | Jawa Tengah;Mainan & Hobi;['Fashion', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Elektronik', 'Fashion', 'Kesehatan & Kecantikan', 'Olahraga'];HIT
+27244;35-44 | Tidak Ingin Menjawab | Daerah Istimewa Yogyakarta;Fashion;['Elektronik', 'Olahraga', 'Fashion', 'Fashion', 'Otomotif', 'Rumah Tangga', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Fashion'];HIT
+1211162;25-34 | Perempuan | Sulawesi Barat;Mainan & Hobi;['Olahraga', 'Fashion', 'Elektronik', 'Fashion', 'Rumah Tangga', 'Mainan & Hobi', 'Otomotif', 'Rumah Tangga', 'Fashion', 'Fashion'];HIT
+1140829;25-34 | Perempuan | Sulawesi Barat;Rumah Tangga;['Olahraga', 'Fashion', 'Elektronik', 'Fashion', 'Rumah Tangga', 'Mainan & Hobi', 'Otomotif', 'Rumah Tangga', 'Fashion', 'Fashion'];HIT
+1038679;35-44 | Tidak Ingin Menjawab | Daerah Istimewa Yogyakarta;Elektronik;['Elektronik', 'Olahraga', 'Fashion', 'Fashion', 'Otomotif', 'Rumah Tangga', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Fashion'];HIT
+917611;25-34 | Laki - laki | Daerah Istimewa Yogyakarta;Kesehatan & Kecantikan;['Fashion', 'Elektronik', 'Olahraga', 'Mainan & Hobi', 'Rumah Tangga', 'Fashion', 'Rumah Tangga', 'Fashion', 'Fashion', 'Otomotif'];MISS
+956773;18-24 | Laki - laki | Jawa Timur;Olahraga;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Olahraga', 'Kesehatan & Kecantikan', 'Rumah Tangga', 'Fashion', 'Fashion', 'Fashion'];HIT
+111612;<18 | Laki - laki | Daerah Khusus Jakarta;Fashion;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Olahraga', 'Kesehatan & Kecantikan', 'Fashion', 'Rumah Tangga', 'Fashion', 'Rumah Tangga'];HIT
+788439;<18 | Laki - laki | Sulawesi Selatan;Rumah Tangga;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Olahraga', 'Fashion', 'Rumah Tangga', 'Rumah Tangga', 'Fashion', 'Fashion'];HIT
+1344184;35-44 | Perempuan | Kepulauan Riau;Kesehatan & Kecantikan;['Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Fashion', 'Fashion', 'Elektronik'];HIT
+219159;35-44 | Laki - laki | Bangka Belitung;Mainan & Hobi;['Fashion', 'Fashion', 'Fashion', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Rumah Tangga', 'Mainan & Hobi', 'Elektronik', 'Rumah Tangga'];HIT
+298298;18-24 | Laki - laki | Kalimantan Utara;Otomotif;['Fashion', 'Elektronik', 'Fashion', 'Fashion', 'Olahraga', 'Olahraga', 'Mainan & Hobi', 'Fashion', 'Rumah Tangga', 'Rumah Tangga'];MISS
+532080;<18 | Tidak Ingin Menjawab | Papua Barat;Olahraga;['Kesehatan & Kecantikan', 'Fashion', 'Otomotif', 'Olahraga', 'Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Buku', 'Mainan & Hobi'];HIT
+549882;25-34 | Tidak Ingin Menjawab | Bali;Elektronik;['Elektronik', 'Olahraga', 'Otomotif', 'Rumah Tangga', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Fashion', 'Mainan & Hobi'];HIT
+864835;18-24 | Tidak Ingin Menjawab | Riau;Rumah Tangga;['Buku', 'Elektronik', 'Otomotif', 'Buku', 'Buku', 'Mainan & Hobi', 'Buku', 'Olahraga', 'Mainan & Hobi', 'Rumah Tangga'];HIT
+65804;35-44 | Perempuan | Daerah Istimewa Yogyakarta;Fashion;['Fashion', 'Fashion', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Mainan & Hobi', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Fashion', 'Elektronik'];HIT
+60060;>45 | Tidak Ingin Menjawab | Sulawesi Tenggara;Rumah Tangga;['Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Otomotif', 'Olahraga', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Otomotif'];MISS
+1395778;35-44 | Perempuan | Daerah Istimewa Yogyakarta;Fashion;['Fashion', 'Fashion', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Mainan & Hobi', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Fashion', 'Elektronik'];HIT
+711183;35-44 | Laki - laki | Nusa Tenggara Barat;Elektronik;['Fashion', 'Mainan & Hobi', 'Fashion', 'Elektronik', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Fashion'];HIT
+16917;25-34 | Tidak Ingin Menjawab | Jawa Barat;Elektronik;['Otomotif', 'Elektronik', 'Olahraga', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Mainan & Hobi', 'Rumah Tangga', 'Elektronik', 'Fashion'];HIT
+1160095;35-44 | Tidak Ingin Menjawab | Kalimantan Tengah;Buku;['Elektronik', 'Otomotif', 'Olahraga', 'Fashion', 'Otomotif', 'Fashion', 'Kesehatan & Kecantikan', 'Mainan & Hobi', 'Fashion', 'Otomotif'];MISS
+646934;>45 | Perempuan | Aceh;Olahraga;['Fashion', 'Olahraga', 'Fashion', 'Elektronik', 'Otomotif', 'Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Otomotif'];HIT
+678507;18-24 | Perempuan | Papua;Elektronik;['Elektronik', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Fashion', 'Rumah Tangga', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Rumah Tangga'];HIT
+1371562;18-24 | Perempuan | Papua;Kesehatan & Kecantikan;['Elektronik', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Fashion', 'Rumah Tangga', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Rumah Tangga'];MISS
+406625;<18 | Perempuan | Papua Barat;Olahraga;['Fashion', 'Olahraga', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Rumah Tangga', 'Elektronik', 'Kesehatan & Kecantikan', 'Fashion'];HIT
+400950;18-24 | Laki - laki | Jawa Barat;Kesehatan & Kecantikan;['Elektronik', 'Fashion', 'Olahraga', 'Fashion', 'Rumah Tangga', 'Fashion', 'Rumah Tangga', 'Rumah Tangga', 'Olahraga', 'Otomotif'];MISS
+119657;35-44 | Tidak Ingin Menjawab | Nusa Tenggara Barat;Otomotif;['Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Otomotif', 'Mainan & Hobi', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Fashion'];HIT
+362799;>45 | Laki - laki | Kalimantan Barat;Fashion;['Fashion', 'Fashion', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Elektronik', 'Olahraga', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Fashion'];HIT
+323452;18-24 | Tidak Ingin Menjawab | Bali;Otomotif;['Elektronik', 'Olahraga', 'Otomotif', 'Rumah Tangga', 'Fashion', 'Elektronik', 'Fashion', 'Rumah Tangga', 'Otomotif', 'Rumah Tangga'];HIT
+370762;35-44 | Tidak Ingin Menjawab | Nusa Tenggara Barat;Buku;['Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Otomotif', 'Mainan & Hobi', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Fashion'];MISS
+244708;35-44 | Laki - laki | Nusa Tenggara Barat;Rumah Tangga;['Fashion', 'Mainan & Hobi', 'Fashion', 'Elektronik', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Fashion'];MISS
+1041444;35-44 | Perempuan | Sumatera Barat;Olahraga;['Fashion', 'Fashion', 'Fashion', 'Rumah Tangga', 'Fashion', 'Fashion', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Mainan & Hobi', 'Elektronik'];MISS
+898321;<18 | Perempuan | Sumatera Utara;Fashion;['Fashion', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Olahraga', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Elektronik', 'Rumah Tangga', 'Fashion'];HIT
+1324931;18-24 | Perempuan | Papua;Elektronik;['Elektronik', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Fashion', 'Rumah Tangga', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Rumah Tangga'];HIT
+854930;<18 | Laki - laki | Sulawesi Selatan;Otomotif;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Olahraga', 'Fashion', 'Rumah Tangga', 'Rumah Tangga', 'Fashion', 'Fashion'];MISS
+1241618;35-44 | Perempuan | Daerah Istimewa Yogyakarta;Buku;['Fashion', 'Fashion', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Mainan & Hobi', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Fashion', 'Elektronik'];MISS
+232226;>45 | Tidak Ingin Menjawab | Sulawesi Tenggara;Kesehatan & Kecantikan;['Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Otomotif', 'Olahraga', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Otomotif'];HIT
+97822;35-44 | Tidak Ingin Menjawab | Daerah Istimewa Yogyakarta;Olahraga;['Elektronik', 'Olahraga', 'Fashion', 'Fashion', 'Otomotif', 'Rumah Tangga', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Fashion'];HIT
+1374220;<18 | Laki - laki | Sulawesi Selatan;Elektronik;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Olahraga', 'Fashion', 'Rumah Tangga', 'Rumah Tangga', 'Fashion', 'Fashion'];HIT
+76241;>45 | Laki - laki | Nusa Tenggara Barat;Elektronik;['Fashion', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Otomotif', 'Olahraga', 'Fashion'];HIT
+354195;18-24 | Tidak Ingin Menjawab | Sulawesi Utara;Otomotif;['Otomotif', 'Buku', 'Otomotif', 'Otomotif', 'Kesehatan & Kecantikan', 'Otomotif', 'Kesehatan & Kecantikan', 'Elektronik', 'Rumah Tangga', 'Rumah Tangga'];HIT
+872662;18-24 | Perempuan | Sulawesi Tengah;Mainan & Hobi;['Fashion', 'Elektronik', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Otomotif', 'Olahraga', 'Fashion', 'Kesehatan & Kecantikan', 'Olahraga'];HIT
+292108;>45 | Laki - laki | Daerah Istimewa Yogyakarta;Kesehatan & Kecantikan;['Fashion', 'Fashion', 'Olahraga', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Rumah Tangga', 'Fashion'];MISS
+867788;25-34 | Perempuan | Bengkulu;Mainan & Hobi;['Fashion', 'Elektronik', 'Olahraga', 'Rumah Tangga', 'Fashion', 'Rumah Tangga', 'Fashion', 'Fashion', 'Rumah Tangga', 'Kesehatan & Kecantikan'];MISS
+902979;>45 | Laki - laki | Maluku Utara;Buku;['Fashion', 'Fashion', 'Elektronik', 'Mainan & Hobi', 'Olahraga', 'Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Fashion', 'Fashion'];MISS
+375553;<18 | Laki - laki | Kalimantan Tengah;Buku;['Fashion', 'Olahraga', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Rumah Tangga', 'Rumah Tangga', 'Fashion', 'Fashion', 'Fashion'];MISS
+1018811;25-34 | Tidak Ingin Menjawab | Jawa Barat;Olahraga;['Otomotif', 'Elektronik', 'Olahraga', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Mainan & Hobi', 'Rumah Tangga', 'Elektronik', 'Fashion'];HIT
+694461;25-34 | Laki - laki | Kalimantan Timur;Rumah Tangga;['Fashion', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Elektronik', 'Fashion', 'Rumah Tangga', 'Olahraga', 'Olahraga', 'Rumah Tangga'];HIT
+643378;>45 | Laki - laki | Daerah Khusus Jakarta;Buku;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Olahraga', 'Fashion', 'Fashion'];MISS
+1350705;35-44 | Perempuan | Maluku;Fashion;['Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Olahraga', 'Fashion', 'Fashion', 'Elektronik'];HIT
+614851;25-34 | Laki - laki | Daerah Khusus Jakarta;Kesehatan & Kecantikan;['Fashion', 'Mainan & Hobi', 'Fashion', 'Elektronik', 'Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Olahraga', 'Rumah Tangga'];HIT
+245897;18-24 | Laki - laki | Kalimantan Utara;Otomotif;['Fashion', 'Elektronik', 'Fashion', 'Fashion', 'Olahraga', 'Olahraga', 'Mainan & Hobi', 'Fashion', 'Rumah Tangga', 'Rumah Tangga'];MISS
+674186;<18 | Tidak Ingin Menjawab | Kalimantan Timur;Mainan & Hobi;['Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Olahraga', 'Mainan & Hobi', 'Fashion', 'Otomotif', 'Fashion', 'Fashion', 'Fashion'];HIT
+259581;>45 | Laki - laki | Daerah Khusus Jakarta;Elektronik;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Olahraga', 'Fashion', 'Fashion'];HIT
+808144;<18 | Perempuan | Papua Barat;Kesehatan & Kecantikan;['Fashion', 'Olahraga', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Rumah Tangga', 'Elektronik', 'Kesehatan & Kecantikan', 'Fashion'];HIT
+123948;35-44 | Perempuan | Maluku;Buku;['Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Olahraga', 'Fashion', 'Fashion', 'Elektronik'];MISS
+105176;18-24 | Laki - laki | Sulawesi Tengah;Kesehatan & Kecantikan;['Fashion', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Olahraga', 'Fashion', 'Olahraga', 'Fashion', 'Rumah Tangga', 'Fashion'];MISS
+710281;<18 | Perempuan | Nusa Tenggara Timur;Mainan & Hobi;['Fashion', 'Olahraga', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Elektronik', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Fashion'];HIT
+1144991;18-24 | Laki - laki | Jawa Timur;Elektronik;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Olahraga', 'Kesehatan & Kecantikan', 'Rumah Tangga', 'Fashion', 'Fashion', 'Fashion'];HIT
+254246;<18 | Laki - laki | Kalimantan Tengah;Otomotif;['Fashion', 'Olahraga', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Rumah Tangga', 'Rumah Tangga', 'Fashion', 'Fashion', 'Fashion'];MISS
+957802;<18 | Laki - laki | Banten;Mainan & Hobi;['Fashion', 'Rumah Tangga', 'Olahraga', 'Fashion', 'Fashion', 'Elektronik', 'Rumah Tangga', 'Mainan & Hobi', 'Fashion', 'Rumah Tangga'];HIT
+352712;>45 | Perempuan | Sulawesi Tengah;Buku;['Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Elektronik', 'Olahraga', 'Fashion', 'Fashion'];MISS
+111042;35-44 | Tidak Ingin Menjawab | Nusa Tenggara Barat;Fashion;['Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Otomotif', 'Mainan & Hobi', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Fashion'];HIT
+1221543;25-34 | Laki - laki | Sulawesi Tengah;Fashion;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Fashion', 'Fashion', 'Olahraga', 'Fashion', 'Olahraga', 'Kesehatan & Kecantikan'];HIT
+291370;<18 | Tidak Ingin Menjawab | Papua Barat;Mainan & Hobi;['Kesehatan & Kecantikan', 'Fashion', 'Otomotif', 'Olahraga', 'Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Buku', 'Mainan & Hobi'];HIT
+857796;35-44 | Tidak Ingin Menjawab | Nusa Tenggara Barat;Elektronik;['Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Otomotif', 'Mainan & Hobi', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Fashion'];MISS
+795973;35-44 | Perempuan | Daerah Istimewa Yogyakarta;Fashion;['Fashion', 'Fashion', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Mainan & Hobi', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Fashion', 'Elektronik'];HIT
+991763;25-34 | Tidak Ingin Menjawab | Sulawesi Utara;Fashion;['Rumah Tangga', 'Otomotif', 'Fashion', 'Otomotif', 'Buku', 'Kesehatan & Kecantikan', 'Otomotif', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan'];HIT
+282010;>45 | Tidak Ingin Menjawab | Sulawesi Tenggara;Fashion;['Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Otomotif', 'Olahraga', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Otomotif'];HIT
+881297;<18 | Tidak Ingin Menjawab | Kalimantan Timur;Olahraga;['Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Olahraga', 'Mainan & Hobi', 'Fashion', 'Otomotif', 'Fashion', 'Fashion', 'Fashion'];HIT
+323373;<18 | Perempuan | Sumatera Utara;Olahraga;['Fashion', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Olahraga', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Elektronik', 'Rumah Tangga', 'Fashion'];HIT
+1122282;25-34 | Tidak Ingin Menjawab | Sulawesi Selatan;Buku;['Mainan & Hobi', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Elektronik', 'Mainan & Hobi', 'Otomotif', 'Otomotif', 'Elektronik'];MISS
+729163;35-44 | Laki - laki | Jawa Tengah;Rumah Tangga;['Fashion', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Elektronik', 'Fashion', 'Kesehatan & Kecantikan', 'Olahraga'];MISS
+634015;18-24 | Tidak Ingin Menjawab | Sulawesi Utara;Olahraga;['Otomotif', 'Buku', 'Otomotif', 'Otomotif', 'Kesehatan & Kecantikan', 'Otomotif', 'Kesehatan & Kecantikan', 'Elektronik', 'Rumah Tangga', 'Rumah Tangga'];MISS
+416576;>45 | Laki - laki | Nusa Tenggara Barat;Fashion;['Fashion', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Otomotif', 'Olahraga', 'Fashion'];HIT
+500188;35-44 | Laki - laki | Bangka Belitung;Mainan & Hobi;['Fashion', 'Fashion', 'Fashion', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Rumah Tangga', 'Mainan & Hobi', 'Elektronik', 'Rumah Tangga'];HIT
+170235;18-24 | Tidak Ingin Menjawab | Sulawesi Utara;Mainan & Hobi;['Otomotif', 'Buku', 'Otomotif', 'Otomotif', 'Kesehatan & Kecantikan', 'Otomotif', 'Kesehatan & Kecantikan', 'Elektronik', 'Rumah Tangga', 'Rumah Tangga'];MISS
+352468;25-34 | Perempuan | Kalimantan Tengah;Mainan & Hobi;['Elektronik', 'Fashion', 'Olahraga', 'Mainan & Hobi', 'Kesehatan & Kecantikan', 'Otomotif', 'Olahraga', 'Otomotif', 'Fashion', 'Otomotif'];HIT
+831418;<18 | Tidak Ingin Menjawab | Jawa Barat;Fashion;['Otomotif', 'Olahraga', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Elektronik', 'Kesehatan & Kecantikan', 'Rumah Tangga', 'Fashion'];HIT
+801412;>45 | Tidak Ingin Menjawab | Nusa Tenggara Barat;Otomotif;['Fashion', 'Kesehatan & Kecantikan', 'Otomotif', 'Fashion', 'Otomotif', 'Buku', 'Fashion', 'Kesehatan & Kecantikan', 'Mainan & Hobi', 'Fashion'];HIT
+1282543;35-44 | Tidak Ingin Menjawab | Nusa Tenggara Barat;Rumah Tangga;['Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Otomotif', 'Mainan & Hobi', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Fashion'];MISS
+1230766;25-34 | Laki - laki | Daerah Istimewa Yogyakarta;Buku;['Fashion', 'Elektronik', 'Olahraga', 'Mainan & Hobi', 'Rumah Tangga', 'Fashion', 'Rumah Tangga', 'Fashion', 'Fashion', 'Otomotif'];MISS
+526845;>45 | Laki - laki | Jawa Tengah;Olahraga;['Fashion', 'Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Olahraga', 'Fashion', 'Fashion'];HIT
+231372;18-24 | Laki - laki | Kalimantan Utara;Buku;['Fashion', 'Elektronik', 'Fashion', 'Fashion', 'Olahraga', 'Olahraga', 'Mainan & Hobi', 'Fashion', 'Rumah Tangga', 'Rumah Tangga'];MISS
+828720;>45 | Laki - laki | Daerah Khusus Jakarta;Elektronik;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Olahraga', 'Fashion', 'Fashion'];HIT
+95590;35-44 | Tidak Ingin Menjawab | Nusa Tenggara Barat;Buku;['Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Otomotif', 'Mainan & Hobi', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Fashion'];MISS
+367543;25-34 | Laki - laki | Sulawesi Tengah;Olahraga;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Fashion', 'Fashion', 'Olahraga', 'Fashion', 'Olahraga', 'Kesehatan & Kecantikan'];HIT
+640906;35-44 | Tidak Ingin Menjawab | Riau;Rumah Tangga;['Olahraga', 'Otomotif', 'Fashion', 'Rumah Tangga', 'Fashion', 'Fashion', 'Rumah Tangga', 'Fashion', 'Rumah Tangga', 'Kesehatan & Kecantikan'];HIT
+742621;>45 | Laki - laki | Kalimantan Barat;Rumah Tangga;['Fashion', 'Fashion', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Elektronik', 'Olahraga', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Fashion'];HIT
+263002;<18 | Laki - laki | Sumatera Utara;Fashion;['Fashion', 'Elektronik', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Olahraga', 'Rumah Tangga', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Rumah Tangga'];HIT
+1356236;35-44 | Perempuan | Daerah Istimewa Yogyakarta;Fashion;['Fashion', 'Fashion', 'Rumah Tangga', 'Fashion', 'Olahraga', 'Mainan & Hobi', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Fashion', 'Elektronik'];HIT
+16283;<18 | Laki - laki | Jawa Barat;Otomotif;['Fashion', 'Rumah Tangga', 'Olahraga', 'Fashion', 'Elektronik', 'Rumah Tangga', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Fashion'];MISS
+883835;<18 | Laki - laki | Jawa Barat;Kesehatan & Kecantikan;['Fashion', 'Rumah Tangga', 'Olahraga', 'Fashion', 'Elektronik', 'Rumah Tangga', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Fashion'];MISS
+464592;35-44 | Tidak Ingin Menjawab | Sulawesi Tengah;Mainan & Hobi;['Kesehatan & Kecantikan', 'Fashion', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Fashion', 'Fashion', 'Buku', 'Mainan & Hobi'];HIT
+75727;<18 | Perempuan | Nusa Tenggara Timur;Mainan & Hobi;['Fashion', 'Olahraga', 'Fashion', 'Fashion', 'Mainan & Hobi', 'Rumah Tangga', 'Elektronik', 'Rumah Tangga', 'Kesehatan & Kecantikan', 'Fashion'];HIT
+177993;>45 | Perempuan | Sulawesi Tengah;Otomotif;['Fashion', 'Fashion', 'Kesehatan & Kecantikan', 'Fashion', 'Mainan & Hobi', 'Fashion', 'Elektronik', 'Olahraga', 'Fashion', 'Fashion'];MISS
+1249517;<18 | Laki - laki | Sulawesi Tengah;Rumah Tangga;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Olahraga', 'Rumah Tangga', 'Fashion', 'Kesehatan & Kecantikan', 'Rumah Tangga', 'Fashion'];HIT
+1051864;<18 | Laki - laki | Sulawesi Tengah;Olahraga;['Fashion', 'Mainan & Hobi', 'Elektronik', 'Fashion', 'Olahraga', 'Rumah Tangga', 'Fashion', 'Kesehatan & Kecantikan', 'Rumah Tangga', 'Fashion'];HIT
+742349;18-24 | Laki - laki | Maluku;Kesehatan & Kecantikan;['Fashion', 'Elektronik', 'Fashion', 'Mainan & Hobi', 'Olahraga', 'Fashion', 'Olahraga', 'Fashion', 'Fashion', 'Fashion'];MISS
